@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avinash-yadav103" alt="avinash-yadav103" /></a> </p>
 
-- 🔭 I’m currently working on [MyPortfolio](avinashyadav.me)
+- 🔭 I’m currently working on [MyPortfolio](https://avinashyadav.me/)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [avinashyadav.me](avinashyadav.me)
+- 👨‍💻 All of my projects are available at [avinashyadav.me](https://avinashyadav.me)
 
 - 💬 Ask me about **html,css,js,react**
 
 - 📫 How to reach me **avinash.yadav02102004@gmail.com**
 
-- 📄 Know about my experiences [avinashyadav.me/resume](avinashyadav.me/resume)
+- 📄 Know about my experiences [avinashyadav.me/resume](https://avinashyadav.me/resume)
 
 - ⚡ Fun fact **I sleep a lot**
 
