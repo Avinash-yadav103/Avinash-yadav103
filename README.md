@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **avinash.yadav02102004@gmail.com**
 
-- 📄 Know about my experiences [avinashyadav.me/resume](https://avinashyadav.me/resume)
+- 📄 Know about my experiences [avinashyadav.me/resume](https://avinashyadav.me/images/Avinash%20Resume.pdf)
 
 - ⚡ Fun fact **I sleep a lot**
 
