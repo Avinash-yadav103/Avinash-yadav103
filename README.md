@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinash-yadav103&label=Profile%20views&color=0e75b6&style=flat" alt="avinash-yadav103" /> </p>
 
-- 🔭 I’m currently working on [MyPortfolio](https://avinashyadav.me/)
+- 🔭 I’m currently working on [MyPortfolio](https://github.com/Avinash-yadav103/Youtube_Helper)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [avinashyadav.me](https://avinashyadav.me)
+- 👨‍💻 All of my projects are available at [avinashyadav.me](https://avinash-yadav103.github.io/)
 
 - 💬 Ask me about **html,css,js,react**
 
