@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Youtube Helper Platform (A mediator between creator and editor for youtube studio)](https://github.com/Avinash-yadav103/Youtube_Helper)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI/ML, Shell, Native, App Dev**
 
 - 👨‍💻 All of my projects are available at [avinashyadav.me](https://avinash-yadav103.github.io/)
 
