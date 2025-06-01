@@ -59,7 +59,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Backend & Databases</b></summary>
   <br>
   <p align="left">
@@ -72,7 +72,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>AI/ML & Data Science</b></summary>
   <br>
   <p align="left">
@@ -84,7 +84,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>DevOps & Tools</b></summary>
   <br>
   <p align="left">
@@ -97,7 +97,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary><b>Design</b></summary>
   <br>
   <p align="left">
