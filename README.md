@@ -19,7 +19,7 @@
 - 🌱 I'm currently learning **AI/ML, Shell, Native, App Dev**
 - 👨‍💻 All of my projects are available at [avinashyadav.me](https://avinash-yadav103.github.io/)
 - 📫 Reach me at **avinash.yadav02102004@gmail.com**
-- 📄 View my [resume](https://avinashyadav.me/images/Avinash%20Resume.pdf)
+- 📄 View my [resume](https://avinash-yadav103.github.io/images/Avinash%20Resume.pdf)
 - ⚡ Fun fact: **I sleep a lot**
 
 ## 🔗 Connect with me
