@@ -111,7 +111,7 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=avinash-yadav103&theme=darkhub&row=1&column=6&margin-w=15&margin-h=15" alt="trophies" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=avinash-yadav103&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=avinash-yadav103&theme=onedark)](https://github.com/avinash-yadav103/github-profile-trophy)
   
   <p>&nbsp;</p>
   
